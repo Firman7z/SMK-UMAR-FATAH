@@ -24,7 +24,7 @@ const HomePage: React.FC<HomePageProps> = ({ setActivePage }) => {
   return (
     <div className="animate-fade-in">
       {/* Hero Banner */}
-      <section className="relative h-[60vh] bg-cover bg-center" style={{ backgroundImage: "url('/images/KI.jpg')" }}>
+      <section className="relative h-[60vh] bg-cover bg-center" style={{ backgroundImage: "url('https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/images/KI.jpg')" }}>
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <div className="text-center text-white p-4">
             <h1 className="text-4xl md:text-6xl font-bold mb-4 drop-shadow-lg">Selamat Datang di SMK UMAR FATAH</h1>
