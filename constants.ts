@@ -16,8 +16,7 @@ export const MAJORS: Major[] = [
     name: 'TKJ',
     fullName: 'Teknik Komputer & Jaringan',
     description: 'Mempelajari perakitan komputer, instalasi software, dan pengelolaan jaringan komputer skala kecil hingga besar. Lulusan siap menjadi teknisi jaringan handal.',
-    imageUrl: '/images/TKJ.jpg
-',
+    imageUrl: '/images/TKJ.jpg',
   },
   {
     id: 'rpl',
