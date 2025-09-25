@@ -24,21 +24,21 @@ export const MAJORS: Major[] = [
     name: 'RPL',
     fullName: 'Rekayasa Perangkat Lunak',
     description: 'Fokus pada pengembangan software, mulai dari aplikasi web, mobile, hingga desktop. Siswa akan belajar bahasa pemrograman modern dan proses pengembangan software.',
-    imageUrl: '/images/RPL.jpg',
+    imageUrl: 'https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/images/RPL.jpg',
   },
   {
     id: 'dkv',
     name: 'DKV',
     fullName: 'Desain Komunikasi Visual',
     description: 'Mengasah kreativitas dalam menyampaikan pesan melalui media visual, seperti desain grafis, ilustrasi, fotografi, dan videografi untuk berbagai kebutuhan industri.',
-    imageUrl: '/images/DKV1.jpg',
+    imageUrl: 'https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/images/DKV1.jpg',
   },
   {
     id: 'tsm',
     name: 'TSM',
     fullName: 'Teknik & Bisnis Sepeda Motor',
     description: 'Membekali siswa dengan pengetahuan dan keterampilan dalam perawatan, perbaikan, dan manajemen bisnis sepeda motor sesuai standar industri otomotif.',
-    imageUrl: '/images/TSM.jpg',
+    imageUrl: 'https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/images/TSM.jpg',
   },
 ];
 
@@ -46,7 +46,7 @@ export const FACILITIES: Facility[] = [
   {
     name: 'Laboratorium Komputer',
     description: 'Dilengkapi dengan puluhan PC modern dan koneksi internet cepat untuk mendukung praktik siswa TKJ dan RPL.',
-    imageUrl: '/images/LAB.jpg',
+    imageUrl: 'https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/images/LAB.jpg',
   },
   {
     name: 'Bengkel TSM Modern',
