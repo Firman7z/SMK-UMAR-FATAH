@@ -23,7 +23,7 @@ const Footer: React.FC<FooterProps> = ({ navLinks, setActivePage }) => {
           <div className="space-y-4">
             <a href="#home" onClick={(e) => handleNavClick(e, 'Home')} className="flex items-center space-x-2">
               <img 
-              src="/images/LOGOUFA.png" 
+              src="/images/logosatu.png" 
               alt="Logo SMK Umar Fatah" 
               className="h-10 w-auto" 
               />

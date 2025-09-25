@@ -24,7 +24,7 @@ const Header: React.FC<HeaderProps> = ({ navLinks, activePage, setActivePage }) 
           <div className="flex-shrink-0">
             <a href="#home" onClick={(e) => handleNavClick(e, 'Home')} className="flex items-center space-x-2 cursor-pointer">
               <img 
-                src="/images/LOGOUFA.png" 
+                src="/images/logosatu.png" 
                  alt="Logo SMK Umar Fatah" 
                  className="h-10 w-auto" 
 />
