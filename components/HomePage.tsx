@@ -19,7 +19,7 @@ const HomePage: React.FC<HomePageProps> = ({ setActivePage }) => {
     setLightboxImage(null);
   };
 
-  const schoolImageUrl = 'https://github.com/Firman7z/SMK-UMAR-FATAH/blob/main/images/GEDUNG2.jpg';
+  const schoolImageUrl = 'https://raw.githubusercontent.com/Firman7z/SMK-UMAR-FATAH/main/public/images/GEDUNG2.jpg';
 
   return (
     <div className="animate-fade-in">
