@@ -60,22 +60,22 @@ export const FACILITIES: Facility[] = [
   {
     name: 'Lapangan Olahraga',
     description: 'Area multifungsi untuk berbagai kegiatan olahraga seperti futsal, basket, dan upacara bendera.',
-    imageUrl: '/images/futsalsatu.jpg'
+    imageUrl: '/images/futsaldua.jpeg'
   }
 ];
 
 // FIX: Change to an array of objects to include descriptions.
 export const GALLERY_IMAGES: GalleryImage[] = [
   { 
-    src: '/images/Kunjungan2.jpg',
+    src: '/images/kisatu.jpg',
     description: 'Kunjungan Industri'
   },
   { 
-    src: '/images/Kunjungan1.jpg',
+    src: '/images/kidua.jpg',
     description: 'Kunjungan Industri'
   },
   { 
-    src: '/images/KARNAVAL1.jpg',
+    src: '/images/karnavalsatu.jpg',
     description: 'Karnaval'
   },
   { 
