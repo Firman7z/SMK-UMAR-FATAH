@@ -28,7 +28,7 @@ const Header: React.FC<HeaderProps> = ({ navLinks, activePage, setActivePage }) 
                  alt="Logo SMK Umar Fatah" 
                  className="h-10 w-auto" 
 />
-              <span className="text-xl font-bold text-gray-800">SMK UMAR FATAH</span>
+              <span className="text-xl font-bold text-gray-800">WEB Firman</span>
             </a>
           </div>
           <div className="hidden md:block">
