@@ -22,7 +22,7 @@ export const MAJORS: Major[] = [
     id: 'rpl',
     name: 'RPL',
     fullName: 'Rekayasa Perangkat Lunak',
-    description: 'Fokus pada pengembangan software, mulai dari aplikasi web, mobile, hingga desktop. Siswa akan belajar bahasa pemrograman modern dan proses pengembangan software.',
+    description: 'Fokus pada pengembangan software, mulai dari aplikasi web, mobile, hingga desktop. Siswa akan belajar bahasa pemrograman modern.',
     imageUrl: '/images/rekayasa.jpg',
   },
   {
